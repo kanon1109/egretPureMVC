@@ -1,0 +1,18 @@
+[
+	"mvc/Proxy.ts",
+	"mvc/support/NotificationCenter.ts",
+	"mvc/Notification.ts",
+	"mvc/Mediator.ts",
+	"test/model/proxy/TestProxy.ts",
+	"test/view/ui/TestPanel.ts",
+	"mvc/Command.ts",
+	"test/view/mediator/Test2Mediator.ts",
+	"test/view/mediator/TestMediator.ts",
+	"test/controller/InitDataCommand.ts",
+	"test/controller/ModelCommand.ts",
+	"test/controller/ViewCommand.ts",
+	"LoadingUI.ts",
+	"test/MvcTest.ts",
+	"Main.ts",
+	"mvc/Facade.ts"
+]
