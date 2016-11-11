@@ -31,6 +31,7 @@ export class Mediator
             if(name == notification.notificationName)
             {
                 this.handleNotification(notification);
+				break;
             }
         }
     }
